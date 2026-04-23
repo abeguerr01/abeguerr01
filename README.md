@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alberto
+# 👋 ¡Hola! Soy Alejandro
 
 🎓 Estudiante de DAM  
 💻 Apasionado por el desarrollo de software  
@@ -28,17 +28,7 @@ Me interesa especialmente trabajar con datos, construir aplicaciones robustas y 
 
 - 🤖 Inteligencia Artificial / Machine Learning  
 - 📊 Análisis de datos avanzado  
-- 🧠 Mejores prácticas de desarrollo  
-
----
-
-## 📂 Proyectos destacados
-
-Aquí puedes poner tus mejores repos 👇
-
-- 🔹 Proyecto 1 – breve descripción  
-- 🔹 Proyecto 2 – breve descripción  
-- 🔹 Proyecto 3 – breve descripción  
+- 🧠 Programas compatibles multiplataforma
 
 ---
 
@@ -50,9 +40,5 @@ Aquí puedes poner tus mejores repos 👇
 
 ## 📫 Contacto
 
-- ✉️ Email: (tu email aquí)
-- 💼 LinkedIn: (opcional)
-
----
-
-⭐ Siempre intentando mejorar y aprender algo nuevo cada día
+- ✉️ Email: alejandro.beguer@gmail.com
+- 💼 LinkedIn: [Alejandro Beguer Ruiz](https://www.linkedin.com/in/alejandro-beguer-ruiz-17063b33b/)
