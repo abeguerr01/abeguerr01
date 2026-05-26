@@ -32,12 +32,6 @@ Me interesa especialmente trabajar con datos, construir aplicaciones robustas y 
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=abeguerr01&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contacto
 
 - ✉️ Email: alejandro.beguer@gmail.com
