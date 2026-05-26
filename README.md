@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un estudiante de Desarrollo de Aplicaciones Multiplataforma al que le gusta entender cómo funcionan las cosas por dentro.  
+Soy tecnico superior de Desarrollo de Aplicaciones Multiplataforma al que le gusta entender cómo funcionan las cosas por dentro.  
 Me interesa especialmente trabajar con datos, construir aplicaciones robustas y seguir aprendiendo nuevas tecnologías.
 
 ---
