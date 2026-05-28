@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Alejandro
 
-🎓 Estudiante de DAM  
+🎓 Tecnico superior de DAM  
 💻 Apasionado por el desarrollo de software  
 📊 Interesado en bases de datos, análisis de datos y backend  
 🤖 Actualmente aprendiendo Inteligencia Artificial  
@@ -9,7 +9,7 @@
 
 ## 🚀 Sobre mí
 
-Soy tecnico superior de Desarrollo de Aplicaciones Multiplataforma al que le gusta entender cómo funcionan las cosas por dentro.  
+Soy tecnico superior de Desarrollo de Aplicaciones Multiplataforma al que le gusta entender cómo funcionan las cosas por dentro y crear aplicaciones utiles y sencillas de utilizar.  
 Me interesa especialmente trabajar con datos, construir aplicaciones robustas y seguir aprendiendo nuevas tecnologías.
 
 ---
@@ -19,6 +19,7 @@ Me interesa especialmente trabajar con datos, construir aplicaciones robustas y 
 - 💾 Bases de datos (SQL, modelado, consultas)
 - 🐍 Python (especialmente Pandas para análisis de datos)
 - ☕ Java + Hibernate (backend y persistencia)
+- 📱 Aplicaciones moviles con android studio
 - 🖥️ C# + WPF (aplicaciones de escritorio)
 - ⚙️ Git & GitHub
 
@@ -26,7 +27,8 @@ Me interesa especialmente trabajar con datos, construir aplicaciones robustas y 
 
 ## 🌱 Actualmente aprendiendo
 
-- 🤖 Inteligencia Artificial / Machine Learning  
+- 🤖 Inteligencia Artificial / Machine Learning
+- 📱 Lenguajes para dispositivos moviles como flutter y MAUI
 - 📊 Análisis de datos avanzado  
 - 🧠 Programas compatibles multiplataforma
 
