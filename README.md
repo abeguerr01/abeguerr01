@@ -2,7 +2,7 @@
 
 Técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM), ahora especializándome en Inteligencia Artificial y Big Data.
 
-Desarrollo aplicaciones multiplataforma y backend, y me interesa sobre todo el trabajo con datos. Busco [prácticas / mi primer empleo / ...] en [desarrollo backend, datos o IA].
+Desarrollo aplicaciones multiplataforma y backend, y me interesa sobre todo el trabajo con datos.
 
 ---
 
