@@ -1,40 +1,30 @@
-# 👋 ¡Hola! Soy Alejandro
+# Hola, soy Alejandro 👋
 
-Tecnico superior de DAM (Desarrollo de Aplicaciones Multiplataforma)  
-Apasionado por el desarrollo de software  
-Interesado en bases de datos, análisis de datos y backend  
-Actualmente aprendiendo Inteligencia Artificial  
+Técnico superior en Desarrollo de Aplicaciones Multiplataforma (DAM), ahora especializándome en Inteligencia Artificial y Big Data.
 
----
-
-## 🤓 Sobre mí
-
-Soy tecnico superior de Desarrollo de Aplicaciones Multiplataforma al que le gusta entender cómo funcionan las cosas por dentro y crear aplicaciones utiles y sencillas de utilizar.  
-Me interesa especialmente trabajar con datos, construir aplicaciones robustas y seguir aprendiendo nuevas tecnologías.
+Desarrollo aplicaciones multiplataforma y backend, y me interesa sobre todo el trabajo con datos. Busco [prácticas / mi primer empleo / ...] en [desarrollo backend, datos o IA].
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack
 
-- Bases de datos (SQL, modelado, consultas)
-- Python (especialmente Pandas para análisis de datos)
-- Java + Hibernate (backend y persistencia)
-- Aplicaciones moviles con android studio
-- C# + WPF (aplicaciones de escritorio)
-- Git & GitHub
-
----
-
-## 🌱 Actualmente aprendiendo
-
-- Inteligencia Artificial / Machine Learning
-- Lenguajes y frameworks para dispositivos móviles como KMP y MAUI  
-- Análisis de datos avanzado  
-- Programas compatibles multiplataforma
+- **Lenguajes:** Python, Kotlin, Java, C#, SQL, HTML/CSS
+- **Backend y persistencia:** Flask, Java + Hibernate
+- **Multiplataforma y móvil:** Kotlin Multiplatform, .NET MAUI, Android (Android Studio)
+- **Escritorio:** C# + WPF
+- **Datos:** Pandas, bases de datos SQL (modelado y consultas)
+- **Herramientas:** Git, GitHub
 
 ---
 
-## Contacto
+## 🌱 Ahora mismo estoy con
 
-- ✉️ Email: alejandro.beguer@gmail.com
-- 💼 LinkedIn: [Alejandro Beguer Ruiz](https://www.linkedin.com/in/alejandro-beguer-ruiz-17063b33b/)
+- Machine Learning y análisis de datos con Python
+- Kotlin Multiplatform y .NET MAUI
+- Big Data
+
+---
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/alejandro-beguer-ruiz-17063b33b/) · alejandro.beguer@gmail.com
